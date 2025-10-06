@@ -17,7 +17,9 @@ train.csv [下載連結](https://www.kaggle.com/code/himanshukumar7079/backpack-
 test.csv [下載連結](https://www.kaggle.com/code/himanshukumar7079/backpack-pred/input?select=test.csv)  
 Noisy_Student_Bag_Price_Prediction_Dataset.csv [下載連結](https://www.kaggle.com/code/himanshukumar7079/backpack-pred/input?select=Noisy_Student_Bag_Price_Prediction_Dataset.csv)
 
-2. 執行訓練
+2. 於baseline.py內設定input檔案路徑
+
+3. 執行訓練
 ```bash
 python baseline.py
 ```
